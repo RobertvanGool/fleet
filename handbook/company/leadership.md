@@ -11,6 +11,9 @@
 - I get grumpy when I am tired and I worry that I'll forget to follow up about things.  You can say: "Would it help if I made a confidential issue about this for you and Sam to go over tonight?"
 - I sometimes will keep talking longer than I otherwise would (ESPECIALLY OVER ZOOM AND ESPECIALLY WHILE SCREENSHARING) when it is harder to see faces and pick up on subtle cues. This is exacerbated by me being afraid I’ll forget to come back to the topic, and feeling like I have to get to address it immediately or it will be lost. When you think I am riffing 🎸 /monologuing 🗣️ on a tangential topic that isn’t in the agenda, its ok to interrupt by sharing your screen and show me the sprawl visually in the notes you’ve been taking, select the text of the tangent and say: “I’m taking notes, and I noticed that we’ve veered onto a tangent. Do you want me to tag you in a Google Doc comment to follow up later on this?"
 
+## CEO Bio
+[Mike](https://www.linkedin.com/in/mikermcneil/) is an open-source developer, serial entrepreneur, and co-founder and CEO of Fleet.  He is also the creator and benevolent dictator for life (BDFL) of Sails.js, an open-source MVC framework backed by Y Combinator that powers thousands of production apps all over the world.  Mike likes to make complicated things [simpler to understand](http://fleetdm.com/handbook/company#values). 
+
 ## Outline of departmental page structure
 
 Departmental pages are for reference, not philosophy.  For philosophy, use "Communications" (for all fleeties), "Leadership" (for managers), "Product groups" (for core product and website contributors), and "Why this way?" (for key decisions).
